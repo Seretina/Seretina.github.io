@@ -1,0 +1,2 @@
+# Seretina.github.io
+template
